@@ -1,1 +1,1 @@
-# odev-1
+Patika.dev profil link'i => https://app.patika.dev/clupper
